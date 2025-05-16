@@ -1,0 +1,7 @@
+rag311/
+chroma_index/
+.env
+__pycache__/
+*.pkl
+*.pt
+rag311/
