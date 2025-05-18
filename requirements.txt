@@ -28,6 +28,8 @@ sentence-transformers>=2.2.2
 huggingface-hub>=0.17.0
 torch>=2.0.1
 
+protobuf==3.20.3
+
 # Data & utilities
 duckdb>=0.8.1
 pandas>=2.0.2
